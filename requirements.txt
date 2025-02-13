@@ -1,0 +1,3 @@
+Flask==2.0.3
+requests==2.27.1
+torch    # Install the appropriate PyTorch version when ready
